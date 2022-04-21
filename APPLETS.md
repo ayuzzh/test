@@ -8,7 +8,8 @@ Here your applet's name is assumed as XXXX.
 1. First you need to create XXXX.cpp source file in src folder. 
 For example, echo applet's source file is located in src/coreutils
 folder. Cause it is well fitted in that folder. If you want you
-can create a XYZ folder in src and then create source for your XXXX applet.
+can create a XYZ folder in src for grouping the applets then 
+create source file in that folder.
 
 2. Then make sure to follow the below source code format in the
 XXXX.cpp file.
