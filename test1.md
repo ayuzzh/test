@@ -1,8 +1,7 @@
-```python
-def ayush():
-   pass
-```
+# Hello
+#### hi
 
-hello
+hello[^1]
 
-```python hello```
+
+[^1]: Hi
