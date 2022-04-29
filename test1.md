@@ -7,4 +7,9 @@ hello[^1]
 a = 10
 ```
 
+```python def hello():
+	pass
+break
+```
+
 [^1]: Hi
